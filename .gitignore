@@ -1,0 +1,13 @@
+data/raw/
+data/processed/
+outputs/
+*.pt
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+*.zip
+*.pdf
+*.docx
+TEAMMATE_HANDOFF.md
+
